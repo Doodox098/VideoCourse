@@ -1,0 +1,13 @@
+jupyterlab
+jupyter
+notebook
+opencv-python
+Scikit-learn
+numpy
+pandas
+matplotlib
+pillow
+seaborn
+tqdm
+ipywidgets
+joblib
